@@ -11,8 +11,11 @@ Detects database-specific error messages (e.g., MySQL, PostgreSQL, SQL Server).
 Logs detailed vulnerability reports for further analysis.
 Supports GET and POST requests for flexible scanning.
 
-Use Cases
+
+Use Cases:
+
 Security assessment of web applications.
+
 
 
 Installation Steps:
