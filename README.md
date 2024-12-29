@@ -12,5 +12,24 @@ Supports GET and POST requests for flexible scanning.
 Use Cases
 Security assessment of web applications.
 
+
+Installation Steps:
+
+1. Clone the repository into a specific directory:
+
+   git clone https://github.com/akinlawondmentor/akinlawonsqli.git
+
+2. Navigate to the directory:
+
+   cd akinlawonsqli
+
+3. Usage:
+
+   python akinlawonsqli.py
+
+
+
 Disclaimer
 This project is intended for educational purposes and ethical use only. Ensure you have permission to test the target application to avoid any legal issues.
+
+
