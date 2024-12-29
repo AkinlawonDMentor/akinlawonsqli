@@ -4,12 +4,19 @@ Akinlawon Sqli Scanner
 
 Akinlawon SQL Injection scanner designed to identify vulnerabilities in web applications. It automates the process of testing for SQL Injection flaws by injecting various payloads into input fields or query parameters and analyzing server responses for indicators of vulnerabilities.
 
+
 Features:
+
 Scans web applications for SQL Injection vulnerabilities.
+
 Utilizes common SQL Injection payloads to test input sanitization.
+
 Detects database-specific error messages (e.g., MySQL, PostgreSQL, SQL Server).
+
 Logs detailed vulnerability reports for further analysis.
+
 Supports GET and POST requests for flexible scanning.
+
 
 
 Use Cases:
