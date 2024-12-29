@@ -7,10 +7,14 @@ Utilizes common SQL Injection payloads to test input sanitization.
 Detects database-specific error messages (e.g., MySQL, PostgreSQL, SQL Server).
 Logs detailed vulnerability reports for further analysis.
 Supports GET and POST requests for flexible scanning.
+
+
 Use Cases
 Security assessment of web applications.
 Learning tool for understanding SQL Injection techniques and mitigations.
 Pre-audit checks before deploying web applications.
+
+
 Disclaimer
 This project is intended for educational purposes and ethical use only. Ensure you have permission to test the target application to avoid any legal issues.
 
