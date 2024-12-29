@@ -1,30 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Akinlawon's SQLi Scanner</title>
-</head>
-<body>
-    <h1>SQL Injection Scanner</h1>
-    <p>Welcome to Akinlawon's SQL Injection Scanner project! This tool helps identify SQL Injection vulnerabilities in web applications.</p>
-    
-    <h2>Features</h2>
-    <ul>
-        <li>Tests web parameters for SQL Injection vulnerabilities</li>
-        <li>Detects database-specific error messages</li>
-        <li>Logs detailed reports for analysis</li>
-    </ul>
+![c78e9ce4-09f7-4cb4-a7e5-9afd6cc0a71f](https://github.com/user-attachments/assets/84ec8e37-ccaf-41ee-aac2-79e5cca56ebf)
 
-    <h2>Download</h2>
-    <p>Download the tool here:</p>
-    <a href="sql_injection_scanner.py" download>Download SQL Injection Scanner</a>
+This SQL Injection scanner designed to identify vulnerabilities in web applications. It automates the process of testing for SQL Injection flaws by injecting various payloads into input fields or query parameters and analyzing server responses for indicators of vulnerabilities.
 
-    <h2>How to Use</h2>
-    <p>Run the tool using the following command:</p>
-    <pre><code>python sql_injection_scanner.py</code></pre>
+Features:
+Scans web applications for SQL Injection vulnerabilities.
+Utilizes common SQL Injection payloads to test input sanitization.
+Detects database-specific error messages (e.g., MySQL, PostgreSQL, SQL Server).
+Logs detailed vulnerability reports for further analysis.
+Supports GET and POST requests for flexible scanning.
 
-    <h2>Disclaimer</h2>
-    <p>This tool is for educational purposes only. Ensure you have proper authorization before testing any application.</p>
-</body>
-</html>
+Use Cases
+Security assessment of web applications.
+
+Disclaimer
+This project is intended for educational purposes and ethical use only. Ensure you have permission to test the target application to avoid any legal issues.
